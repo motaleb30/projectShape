@@ -1,0 +1,96 @@
+.one{
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+    border-top: 15px solid blue;
+    border-right: 15px solid green;
+    border-bottom: 15px solid purple;
+    border-left: 15px solid crimson;
+}
+
+div{
+    display: inline-block;
+}
+
+.two{
+    height: 200px;
+    width: 200px;
+    border: 15px solid grey;
+    background: #000;
+    border-bottom-right-radius: 100px;
+    background-color: darkgreen;
+}
+
+.three{
+    height: 200px;
+    width: 200px;
+    border: 15px solid yellowgreen;
+    border-top-left-radius: 100px;
+    background-color: cyan;
+}
+.four{
+    height: 200px;
+    width: 200px;
+    border: 15px solid rebeccapurple;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    background-color: brown;
+}
+.five{
+    height: 200px;
+    width: 200px;
+    border: 15px solid chocolate;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    background-color: blue;
+}
+.six{
+    height: 200px;
+    width: 200px;
+    border: 15px solid black;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-color: beige;
+
+}
+.seven{
+    height: 200px;
+    width: 200px;
+    border: 15px solid yellowgreen;
+    background: #000;
+    border-bottom-right-radius:50px;
+    border-bottom-left-radius:50px;
+    background-color: magenta;
+}
+.eight{
+    height: 200px;
+    width: 200px;
+    border: 15px solid black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 100px;
+    background-color:mediumaquamarine;
+}
+.nine{
+    height: 200px;
+    width: 200px;
+    border: 15px solid mediumvioletred;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 50px;
+    background-color: burlywood;
+}
+.ten{
+    height: 200px;
+    width: 200px;
+    border: 15px solid mediumvioletred;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: midnightblue;
+}
